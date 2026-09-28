@@ -1,0 +1,4 @@
+*.jar
+*.class
+habits.tsv
+habits.tsv.tmp
